@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KudzaiNova
+- 👋 Hi, I’m @Kudzai Zhuwaki
 - 👀 I’m interested in Python Programming
 - 🌱 I’m currently learning Computer Science at NUST University in Zimbabwe
 - 💞️ I’m looking to collaborate on Data Science and software development
